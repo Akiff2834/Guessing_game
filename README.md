@@ -5,7 +5,7 @@
 3. You have up to 10 attempts to guess the correct number.
 4. Enter your guess when prompted.
 5. The program will provide feedback if your guess is too high or too low.
-6. If you correctly guess the number within the allow
+6. If you correctly guess the number within the allow , you win!
 
 
    ## How to Run
